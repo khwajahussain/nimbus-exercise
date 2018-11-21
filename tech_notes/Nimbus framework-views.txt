@@ -1,0 +1,9 @@
+
+on top of springframe work nimbus got build.
+
+the purpose of nimbus is  simplifng the  implplementation of the web applications.
+
+
+Nimbus providing more custom  annotations to avoid boilerplate code, with that developer can concentration on business logic.
+
+Given project uses mongo db integration with MongoOperations interface
